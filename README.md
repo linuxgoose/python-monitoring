@@ -54,7 +54,7 @@ Or, on Windows, run:
 python python-monitoring.py
 ```
 
-This service may also be ran as a systemd service. Please visit the Systemd Serivce for more information.
+This service may also be ran as a systemd service. Please visit the Systemd Service for more information.
 
 ## Systemd Service Setup
 To set up a systemd service, use the following configuration:
